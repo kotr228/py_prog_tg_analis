@@ -1,1 +1,0 @@
-# py_prog_tg_analis
